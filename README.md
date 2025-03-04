@@ -172,8 +172,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/financial-market-simulator](https://github.com/yourusername/financial-market-simulator)
